@@ -225,7 +225,7 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../images/bg_head.jpg) top center;
+  background: #f4f4f4 url(bg_head.jpg) top center;
   opacity: 0.5;
   background-size: cover;
   /* color: #faf0f0; */
